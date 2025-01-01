@@ -1,3 +1,4 @@
+# 50 Commonly Line In Linux 
 1. `ls` - List files and directories.
 2. `cd` - Change directory.
 3. `pwd` - Print working directory.
